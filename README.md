@@ -8,7 +8,7 @@
   - Instagram: <a rel="me" href="https://instagram.com/emailkarma" target="new">@EmailKarma</a>
   - Linkedin: <a rel="me" href="https://linkedin.com/in/vernhout" target="new">Emailkarma</a>
   - Mastodon: <a rel="me" href="https://deliverabilit.ie/@emailkarma" target="new">@Emailkarma</a>
-  - X/Twitter: <a rel="me" href="https://twitter.com/emailkarma" target="new">@EmailKarma</a>
+<!--  - X/Twitter: <a rel="me" href="https://twitter.com/emailkarma" target="new">@EmailKarma</a> -->
   
 - Founded in 2019 - Canada's only all day event focusing on permissioned based email marketing and privacy: [Canadian Email Summit](https://emailsummit.ca)
 <!---
